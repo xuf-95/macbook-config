@@ -98,7 +98,7 @@
 - [magiceraser](https://magicstudio.com/zh/magiceraser/) - 几秒钟内删除不需要的对象、人物和文本
 - [remove.bg](https://www.remove.bg/zh) - 在线抠图软件_图片去除背景
 - [Cupcut](https://www.capcut.com/) - 视频剪辑
-- []()
+- [cobalt](https://cobalt.tools/) - 视频/音频下载器
 
 ## References
 - [antfu/use](https://github.com/antfu/use)
