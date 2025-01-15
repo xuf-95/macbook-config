@@ -1,6 +1,10 @@
-# macbook-env
+# What I Use
+
+## AI 
+
 ## 常用开发工具
 ### 代码编辑器
+- [cursor](https://www.cursor.com/) - Code Copilot , Prompt references [cursor.directory](https://cursor.directory/)
 - [VS Code](https://code.visualstudio.com/) - 通用代码、文本编辑器
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python 开发集成环境，管理构建多个python项目的开发，测试，运维
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - 用于构建 Java 开发集成环境
@@ -9,43 +13,43 @@
 - [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - 管理已安装的JetBrains工具，下载新工具并打开最近的项目
                
 ### 文本编辑器
-- [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin-zh.md#sublime-text-plugin)。 
-- [BBEdit](http://www.barebones.com/products/bbedit/) - 强大的文件编辑器，用于编辑文件，文本文件及程序源代码。
-- [BetterRename](http://www.publicspace.net/BetterRename/) - 一款强大的批量重命名工具，可以通过搜索功能改名。
-- [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示。
+- [Sublime Text](http://www.sublimetext.com/3) - 一个比较简洁大方带插件管理系统的流行编辑器，[Sublime常用插件](editor-plugin-zh.md#sublime-text-plugin) 
+- [Typora](https://typora.io/)- Simple Markdown tool, also see [Miao Yan](https://miaoyan.app/) cool theme 
+- [Beyond Compare](http://www.scootersoftware.com/download.php) - 对比两个文件夹或者文件，并将差异以颜色标示
 - [DiffMerge](http://sourcegear.com/diffmerge/) - 可视化的文件比较（也可进行目录比较）与合并工具
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Finder 中快速打开终端，定位到目录
-- [uTools](https://u.tools/) - 一款基于插件的程序员效率工具，包含非常多的实用插件，如图床、UUID、密码、翻译、JSON格式化等。
-- [He3](https://he3.app) - 免费智能的开发者万能工具箱.
-- [TeXstudio](http://www.texstudio.org) - 集成创建 LaTeX 文档的写作环境。
-- [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
-- [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具。
 
-### 命令行工具
+- [TeXstudio](http://www.texstudio.org) - 集成创建 LaTeX 文档的写作环境
+- [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器
+- [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具
+- [BetterRename](http://www.publicspace.net/BetterRename/) - 一款强大的批量重命名工具，可以通过搜索功能改名
+
+### Tools Box
+- [uTools](https://u.tools/) - 一款基于插件的程序员效率工具，包含非常多的实用插件，如图床、UUID、密码、翻译、JSON格式化等
+- [He3](https://he3.app) - 免费智能的开发者万能工具箱
+- [devtoys](https://devtoys.app/)
+
+### Terminal
 - [iTerm2](http://www.iterm2.com) - 免费的终端工具，直接替代自带的 Terminal，有非常多惊人的特性
-- [Termius-beta](https://www.termius.com/) - 免费的终端工具，可以与 windows 平台的 xshell 媲美。
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 一个由社区驱动,用于管理zsh配置的命令行工具
-- [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。
-- [autojump](https://github.com/wting/autojump/wiki) - 告别又臭又长的路径名，一键直达任何目录。
+- [autojump](https://github.com/wting/autojump/wiki) - 告别又臭又长的路径名，一键直达任何目录
 - [mycli](https://github.com/dbcli/mycli) - 为 MySQL 命令行客户端，提供语法高亮和提示功能的工具！
 - [tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件。摆脱命令方便安装、查看、卸载软件。
-- [color-retro-term](https://swordfishslabs.wordpress.com/2014/09/03/cool-old-term-is-dead-long-live-cool-retro-term/) - 一款复古风格的终端，非常酷炫。
-- [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为 GIF 动画。
-- [cmus](https://cmus.github.io/) - 命令行播放音乐应用。
-- [Fig](https://fig.io) - 终端上的命令行自动补全，支持自定义。
+- [ndm](https://720kb.github.io/ndm/) - 查看本地[NPM](http://npmjs.org/)安装的包客户端软件摆脱命令方便安装、查看、卸载软件
+- [ttygif](https://github.com/icholy/ttygif) - 将终端录制转换为 GIF 动画
+- [cmus](https://cmus.github.io/) - 命令行播放音乐应用
+- [Fig](https://fig.io) - 终端上的命令行自动补全，支持自定义
 
 ### 数据库
-- [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一款稳定全新的Redis管理工具。
-- [Navicat Data Modeler](https://www.navicat.com.cn/products/navicat-data-modeler) - 一个数据库设计工具，它帮助创建高质素的概念、逻辑和物理数据模型。
+- [Navicat 17](https://www.navicat.com/) - Connect Mysql, MongoDb, Redis Databases and Create Data Model
+- [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - 一款稳定全新的Redis管理工具
 - [TablePlus](https://tableplus.io) - 支持 PostgreSQL，MySQL，RedShift，MariaDB... 各种数据库的高颜值客户端
 - [JackDB](https://www.jackdb.com/) - 直接的 SQL 访问你所有的数据，无论在哪里
-- [MongoDB](https://www.mongodb.com) - 一个基于分布式文件存储的数据库。
+- [MongoDB](https://www.mongodb.com) - 一个基于分布式文件存储的数据库
 
 ### 网络
 - [Proxyman](https://proxyman.app) - 适用于 macOS 的现代直观 HTTP 调试代理.
-- [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的 HTTP 和 HTTPS 流量。
+- [Charles](https://www.charlesproxy.com/) - 一个代理工具，允许你查看所有的 HTTP 和 HTTPS 流量
   
 ### 设计
 - [StarUML](http://staruml.io) - 强大的软件建模软件
@@ -54,7 +58,9 @@
 
 ## Chrome Extensions
 - [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - good translation
+- [Save to Notion]()
 - [iTab New Tab](https://chrome.google.com/webstore/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5%E5%85%8D%E8%B4%B9chatgpt/mhloojimgilafopcmlcikiidgbbnelip) - Refined tab page
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter
 - [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf) - No-brainer must-have
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - User scripts for any website
 - [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe) - It looks very nice!
@@ -64,7 +70,6 @@
 - [Ajax Interceptor](https://chrome.google.com/webstore/detail/ajax-interceptor/nhpjggchkhnlbgdfcbgpdpkifemomkpg) - To modify response text of ajax requests
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - Dark mode for every website
 - [JSONVue](https://chrome.google.com/webstore/detail/jsonvue/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Save up to 95% memory and reduce tab clutter
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - Manage and switch between multiple proxies quickly & easily (use with [`whistle`](https://wproxy.org/whistle/))
 - [Super Simple Highlighter](https://chrome.google.com/webstore/detail/super-simple-highlighter/hhlhjgianpocpoppaiihmlpgcoehlhio) - Make permanent, private highlights on any web page
 - [Wappalyzer - Technology profiler](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies
@@ -94,12 +99,23 @@
 - [Wrap](https://www.warp.dev/) - Second Termianl
 
 ## Media
-### photo
+### Photo
+- [Short](https://shots.so/) - 
 - [magiceraser](https://magicstudio.com/zh/magiceraser/) - 几秒钟内删除不需要的对象、人物和文本
 - [remove.bg](https://www.remove.bg/zh) - 在线抠图软件_图片去除背景
+- [Immich](https://github.com/immich-app/immich) - local self-hosted photo and video management solution.
+
+
+### Video
 - [Cupcut](https://www.capcut.com/) - 视频剪辑
 - [cobalt](https://cobalt.tools/) - 视频/音频下载器
 
-## References
-- [antfu/use](https://github.com/antfu/use)
-- [sorrycc/awesome-tools](https://github.com/sorrycc/awesome-tools)
+### Icon
+- [](https://ray.so/icon)
+
+## Resume
+- [ReadCV](https://read.cv/explore)
+- [Elegant Resume](https://www.elegantresume.pro/) - Introducing a professional, secure, and AI-powered resume builder to craft your perfect resume
+- [OverLeaf](https://www.overleaf.com/) - the collaborative, online LaTeX editor
+  
+
